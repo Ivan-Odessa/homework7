@@ -467,7 +467,6 @@ body {
 
 .bg-attachment__visual-block {
 	width: 800px;
-	height: 100px;
 	margin: 0 auto;
 	text-align: center;
 }
@@ -544,9 +543,7 @@ body {
 	min-height: 200px;
 	background: url('../img/pat.jpg') repeat-x /cover fixed;
 }
-.footer__container {
-	border: 2px solid#F1F1F1;
-}
+
 .footer__button {
 	display: block;
 	max-width: 200px;
